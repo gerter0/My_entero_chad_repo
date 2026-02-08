@@ -1,0 +1,1 @@
+As a busy user, I want AI to adjust my alarm based on my sleep and schedule, so that I wake up feeling more alert and less stressed.
